@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tayyaba!
+# Hi, I'm Tayyaba!
 
 An **AI/ML Engineer** with a passion for building intelligent systems that solve real-world problems and make people's lives easier.  
 
